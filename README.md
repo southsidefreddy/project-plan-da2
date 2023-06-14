@@ -11,4 +11,12 @@ The purpose of this project will be to analyze datasets that provide information
 * SQL for querying and joining the datasets.
 * Seaborn, Matplotlib, and/or Tableu to plot visualizations
 * Include instructions on how to activate the program.  This will include activating the virtual environment and using the requirements.txt file.
-* I will create annotate the notebook by leaving descriptivemarkdown comments throughout  the code.
+* I will annotate the notebook by leaving descriptive markdown comments throughout the code.
+
+## Questions Based On The Dataframes
+
+Which country consumes the most coffee and what type of coffee?
+
+Which coffee drink contains the most caffeine?
+
+Is there any relationship between caffeine content and how much coffee is consumed based on the collected data?
